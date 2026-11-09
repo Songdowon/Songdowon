@@ -18,15 +18,6 @@ Extracted image representations and evaluated forgetting and retention on held-o
 
 [Repository](https://github.com/Songdowon/CAU_hackathon) · [Method and results](https://github.com/Songdowon/CAU_hackathon/blob/main/student_docker/METHOD.md)
 
-### LG Aimers 9th - Online Hackathon (Phase 2)
-
-Contributed to feature engineering experiments and evaluation for KBO pitch-level control success prediction using game context and historical pitching data.
-
-- Team result: **71st of 973 teams (top 7.3%)**, final score **1,153.6031**.
-- Compared related team-based features: team-involvement indicators were retained in the final model, while a team-specific time indicator was rejected after reducing the leaderboard score.
-
-[Competition](https://www.dacon.io/en/competitions/official/236743/overview/schedule)
-
 ## Web Projects
 
 | Project | Description | Links |
